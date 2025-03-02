@@ -1,5 +1,4 @@
 # Dual-Database Indexing Patterns
-Author: Eungi Kim
 
 Overview  
 This project analyzes the dual indexing dynamics of journals in the Korea Citation Index (KCI) and SCImago Journal Rank (SJR) from 2008 to 2023. It involves computing bibliometric metrics such as the Jaccard Similarity Index (JSI), Within-Database Jaccard Similarity (WJS), Dual-Database Indexing Change Rates (DDICR), Delisting Rates, and the Dual-Database Longevity Index (DDLI). The scripts preprocess raw data, clean and standardize datasets, and conduct bibliometric analyses using Python and R.
